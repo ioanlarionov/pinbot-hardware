@@ -55,6 +55,14 @@
 ## ideas
 - add the 40-pin header to connect other HATS
 
+## LCSC parts availiability
+- EC2-5SNU unavailible, EC2-3NU(sch is not directly compatible) or search 
+- LEDs unavailible(easy subs)
+- ZXBM5210-S unavailible
+- MIC2026-2YM 1 pcs.left, MIC2026A availible
+
+
+
 ## resources
 - [ADS1015](https://www.ti.com/lit/ds/symlink/ads1015.pdf)
 - [RPI Zero 2W](https://pip-assets.raspberrypi.com/categories/584-raspberry-pi-zero-2-w/documents/RP-008360-DS-1-raspberry-pi-zero-2-w-reduced-schematics.pdf?disposition=inline) 
