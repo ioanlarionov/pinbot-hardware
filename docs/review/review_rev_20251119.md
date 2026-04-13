@@ -56,11 +56,12 @@
 - add the 40-pin header to connect other HATS
 
 ## LCSC parts availiability
-- EC2-5SNU unavailible, EC2-3NU(sch is not directly compatible) or search 
+- EC2-5SNU(relay) unavailible, EC2-3NU(sch is not directly compatible) or search 
 - LEDs unavailible(easy subs)
-- ZXBM5210-S unavailible
-- MIC2026-2YM 1 pcs.left, MIC2026A availible
-
+- ZXBM5210-S (DC motor driver) unavailible
+- MIC2026-2YM (USB power switch) 1 pcs.left, MIC2026A availible
+- USB1125-GF-B(connector) 11pcs. left
+- FE1.1s(USB HUB), need to check if PN is right (FE1.1S-BSOP28BCN 23k+)
 
 
 ## resources
